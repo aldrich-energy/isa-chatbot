@@ -2,7 +2,7 @@
   const SHEET_URL = "https://script.google.com/macros/s/AKfycbwLgLdTakPKptg3vqwIQSii__l7Q31VOwBLWQGUdWVtCVsKrZMSLR8b0tBaKVbVh3uNiQ/exec";
   const MAILBITE_KEY = "L5X3cRWWY49edQQpI7b8YHM7ds1crJKltsOo";
   const NOTIFICATION_API = "https://aldrich-energy-htx9.vercel.app/api/isa-saudi-email-notification"; // ← Your Next.js URL
-  const WEBSITE_NAME = "ISA SAUDI CONFERENCE"; // ← change this per website
+  const WEBSITE_NAME = "ISA SAUDI"; // ← change this per website
 
   const css = `
     #_cb_launcher{position:fixed;bottom:28px;right:28px;width:56px;height:56px;border-radius:50%;background:#3F2B61;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(0,0,0,0.2);z-index:99999;transition:transform .2s;}
