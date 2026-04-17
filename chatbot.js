@@ -87,7 +87,7 @@
     register: {
       text: "Registering for ISA Saudi Conference 2026 is easy! We have Visitor Passes, Delegate Packages, and VIP options available.\n\nClick below to secure your spot:",
       link: "Register Now →",
-      url: "https://www.isasaudiconference.com/"
+      url: "https://www.isasaudiconference.com/registrations/"
     },
     sponsor: {
       text: "Sponsorship Opportunities:\n\nFor sponsorship details and packages, please contact our team. We would be happy to provide you with more information on how you can participate.\n\n📧 Contact:",
