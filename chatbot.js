@@ -1,7 +1,7 @@
 (function () {
   const SHEET_URL = "https://script.google.com/macros/s/AKfycbwLgLdTakPKptg3vqwIQSii__l7Q31VOwBLWQGUdWVtCVsKrZMSLR8b0tBaKVbVh3uNiQ/exec";
   const MAILBITE_KEY = "IeWdPN5hoRR7eoSGHmhJQol0WP18331ZaPsa";
-  const NOTIFICATION_API = "https://aldrich-energy-htx9.vercel.app/api/isa-saudi-email-notification"; // ← Your Next.js URL
+  const NOTIFICATION_API = "https://aldrich-energy.vercel.app/api/isa-saudi-email-notification"; // ← Your Next.js URL
   const WEBSITE_NAME = "ISA SAUDI"; // ← change this per website
 
   const css = `
